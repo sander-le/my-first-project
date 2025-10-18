@@ -8,7 +8,7 @@
 ## 🧭 1. Product Overview
 
 **Product Name:** SnapBacked  
-**Tagline:** *Save it. Own it. Relive it.*  
+**Tagline:** *Get your Snapchat memories backed up - with Snapbacked*
 **Platform:** Windows Desktop (Windows 10 and 11)  
 **Preferred Tech:** Electron (TypeScript + React) or Tauri (Rust + React)
 
