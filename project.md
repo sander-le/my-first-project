@@ -206,7 +206,7 @@ Enable a user to:
 
 ---
 
-## 🧩 10. Development Notes for AI Agent
+## 🧩 10. Development Notes for AI Agent (important)
 
 - Structure code into **modules**: `import`, `conversion`, `gallery`, `flashback`, `settings`.  
 - Importer should accept ZIPs, folders, and file arrays.  
